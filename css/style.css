@@ -1,5 +1,5 @@
 *{margin:0 auto;text-align:left}
-body{height:100%;margin:0;padding:0;text-align:left;font-size:13px;font-family:arial,helvetica,sans-serif;color:#FFF;background-color:#5d5d5d;background-image:url(../img/gradient_bg.png);background-repeat:repeat-x}
+body{height:100%;margin:0;padding:0;text-align:left;font-size:13px;font-family:arial,helvetica,sans-serif;color:#FFF;background-color:#5D5D5D;background-image:url(../img/gradient_bg.png);background-repeat:repeat-x}
 p{color:#000;margin-top:10px}
 table,tr,td,th{margin:0}
 table{padding:10px 0}
@@ -24,7 +24,8 @@ td{padding:5px 20px}
 #aboutcontent{display:inline;float:left;clear:both;width:925px;background-color:#fff;border-radius:15px;margin-top:6px;padding:10px 10px 20px;border:6px solid #595959}
 #about-content{float:left;margin-top:15px;width:100%;margin-right:10px}
 #tourn-content{margin:0;float:left;margin-top:0;width:100%;margin-right:0}
-#tourn-blurb{float:left;margin-top:15px;width:67%;margin-left:175px}
+#tourn-blurb{float:left;margin-top:15px;width:45%;margin-left:10px}
+#tourn-blurb2{float:right;margin-top:15px;width:45%;margin-left:0px;margin-right: 20px;}
 #videocontent{display:inline;float:left;clear:both;width:97%;background-color:#fff;border-radius:15px;margin-top:6px;padding:10px 10px 20px;border:6px solid #595959}
 #video-content{margin:auto;float:left;margin-top:15px;width:100%;margin-right:10px}
 #video-blurb{float:left;margin-top:15px;width:67%;margin-left:175px;margin-right:auto}
@@ -48,7 +49,7 @@ td{padding:5px 20px}
 #rightcontent{float:right;margin-left:5px;margin-top:15px;width:30%}
 #leftdiv{float:left;width:295px;min-height:75px;background-color:#fff;border-radius:15px;margin-top:6px;padding:10px 10px 20px;border:6px solid #595959}
 #maincontent .link{text-decoration:none;color:#8f1111}
-#footer{clear:both;position:relative;z-index:10;height:3em;margin-top:0;background:#8f1111;padding:20px 0 0 40%;font-size:75%}
+#footer{clear:both;position:relative;z-index:10;height:3em;margin-top:0;background:#8f1111;padding:20px 0 0 40%;font-size:75%;color: white;}
 #footer a{color:#fff;text-decoration:none}
 .heading th{color:#8f1111;text-align:center;font-weight:700;margin-top:10px;margin-right:auto;margin-left:auto}
 .tournament{border:5px solid #8f1111}
@@ -74,5 +75,7 @@ ul.rig.columns-4 li{max-width:22.5%}
 #2015-achievement{float:right;margin-right: 0;}
 #about-blurb.2014-achievements{float:left;width: 300px;}
 .blog-title{color:#8f1111}
-#about-sam{width: 50%; height: 45%; float: left; margin-left: 7%; margin-right: 50%; margin-bottom: 5%; display: block;	}
-#partner{float:left;margin-bottom:20px;font-weight: bold;clear: both;}
+#about-sam{width: 50%; height: 45%; float: left; margin-left: 7%; margin-right: 50%; margin-bottom: 5%; display: block;}
+.about-sam{max-width: 100%; height: auto !important;border-radius: 10px;}
+#partner{float:left;margin-bottom:20px;font-weight: bold;clear: both; }
+.tourn-head1{width: 48%;float: left;padding-left: 144px;}
