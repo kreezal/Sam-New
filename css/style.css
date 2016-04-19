@@ -19,7 +19,7 @@ td{padding:5px 20px}
 #navright .social li a,#navright .social li a:visited{float:right;color:#fff;text-decoration:none;text-align:center;font-size:25px;font-weight:700;padding:0 13px}
 #navright .social li a:hover{color:#595959}
 #maincontent{display:inline;float:left;clear:both;width:600px;background-color:#fff;border-radius:15px;margin-top:6px;padding:10px 10px 20px;border:6px solid #595959}
-#tourncontent{display:inline;float:left;clear:both;width:100%;background-color:#fff;border-radius:15px;margin-top:6px;padding:0;border:6px solid #595959}
+#tourncontent{display:inline;float:left;clear:both;width:100%;background-color:#fff;border-radius:15px;margin-top:10px;padding:0;border:6px solid #595959}
 #content{float:left;margin-top:15px;width:66%;border-right:2px solid #595959;margin-right:10px}
 #aboutcontent{display:inline;float:left;clear:both;width:925px;background-color:#fff;border-radius:15px;margin-top:6px;padding:10px 10px 20px;border:6px solid #595959}
 #about-content{float:left;margin-top:15px;width:100%;margin-right:10px}
